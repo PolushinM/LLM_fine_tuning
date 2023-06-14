@@ -1,0 +1,14 @@
+accelerate==0.18.0
+bitsandbytes==0.37.2
+-e git+https://github.com/lm-sys/FastChat.git@a26db3c814889035d92c8ae80d6defbd7381ee55#egg=fschat
+ipywidgets==8.0.6
+notebook==6.5.4
+numpy==1.24.3
+peft==0.3.0
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+scikit-learn==1.2.2
+sentencepiece==0.1.99
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.28.1
